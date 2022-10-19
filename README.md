@@ -1,3 +1,3 @@
 # Bootstrap-Example-3
 
-Responsive Slider
+Responsive Slider => https://mr-slide.netlify.app/
